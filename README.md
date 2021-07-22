@@ -1,6 +1,6 @@
 # Chatbots For Hotel Using Google Dialogflow
 
-1. A chatbot is software application that mimics conversation with a human in natural lanaguage through various platforms like messaging , websites , mobile etc.
+1. A chatbot is software application that mimics conversation with a human in natural language through various platforms like messaging , websites , mobile etc.
 2. The chatbot responds by identifying the intent of the conversation and the responding accordingly.
 
 ## Chatbot Builders
