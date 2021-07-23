@@ -3,7 +3,7 @@
 1. A chatbot is software application that mimics conversation with a human in natural language through various platforms like messaging , websites , mobile etc.
 2. The chatbot responds by identifying the intent of the conversation and the responding accordingly.
 
-[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://youtu.be/TJL4duMUe18)
+[![Video](https://www.ceipal.com/wp-content/uploads/2020/03/AI-Chatbot.jpg)](https://youtu.be/TJL4duMUe18)
 
 ## Chatbot Builders
 1. Google Dialogflow
